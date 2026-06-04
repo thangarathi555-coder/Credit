@@ -115,3 +115,4 @@ Conclusion
 This project demonstrates how Python can be used to analyze and visualize financial transaction data effectively. Through Exploratory Data Analysis and visualization techniques, we can understand fraud patterns and transaction behavior. These insights help in building better fraud detection systems and improving financial security.
 <img width="776" height="589" alt="image" src="https://github.com/user-attachments/assets/751eb454-86a9-47b8-83ff-395fa9d19576" />
 <img width="793" height="590" alt="image" src="https://github.com/user-attachments/assets/f555d7d0-b340-40da-bc9c-a0ad62e06602" />
+<img width="963" height="608" alt="image" src="https://github.com/user-attachments/assets/06d40e8e-385f-43bf-ab8f-2c1da0db60ba" />
